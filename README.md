@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dunk 👋</h1>
-
+<img url="https://github.com/MiltonYV-DEV/Portafolio-v2/blob/main/public/portada.png?raw=true"/>
 <p align="center">
   Full Stack Developer · JavaScript · TypeScript · Python
 </p>
