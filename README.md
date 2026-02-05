@@ -7,5 +7,14 @@ I enjoy building well-structured, functional applications and understanding how 
 
 I’m especially interested in low-level and high-performance systems, and my goal is to specialize in **Rust** while continuing to grow as a versatile full-stack developer.
 
+### Tech Stack
+- Languages: JavaScript, TypeScript, Java, Python, HTML, CSS
+- Frontend: React, Astro
+- Backend: FastAPI, Flask, NestJS / Node.js
+- Databases: PostgreSQL, MySQL
+- Tools: Git, Docker, ORMs
+- Learning: Rust
+
+
 ---
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dunlk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
