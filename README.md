@@ -13,7 +13,7 @@ I’m especially interested in low-level and high-performance systems, and my go
 - Frontend: React, Astro
 - Backend: FastAPI, Flask, NestJS / Node.js
 - Databases: PostgreSQL, MySQL
-- Tools: Git, Docker, ORMs
+- Tools: Git, GitHub, Docker, Linux, Neovim(nvim), VSCode, Postman, Swagger, ORMs (SQLAlchemy, Prisma)
 - Learning: Rust
 
 
