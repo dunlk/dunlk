@@ -16,6 +16,14 @@ I’m especially interested in low-level and high-performance systems, and my go
 - Tools: Git, GitHub, Docker, Linux, Neovim(nvim), VSCode, Postman, Swagger, ORMs (SQLAlchemy, Prisma)
 - Learning: Rust
 
+---
+### 📫 Contact
+I’m open to collaboration, learning opportunities, and junior full-stack roles.
+
+- Email: milton.yv.dev@gmail.com  
+- LinkedIn: https://linkedin.com/in/miltonyvdev 
+- GitHub: https://github.com/dunlk
+- Portfolio: https://milton-portafolio.vercel.app/
 
 ---
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dunlk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
