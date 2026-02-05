@@ -6,7 +6,7 @@ I’m a self-taught full-stack software developer working with databases, backen
 I enjoy building well-structured, functional applications and understanding how systems work end to end. I work mainly with modern web technologies and relational databases, and I’m constantly improving my skills through hands-on projects and continuous learning.
 
 I’m especially interested in low-level and high-performance systems, and my goal is to specialize in **Rust** while continuing to grow as a versatile full-stack developer.
-
+---
 ### Tech Stack
 - Languages: JavaScript, TypeScript, Java, Python, HTML, CSS
 - Frontend: React, Astro
