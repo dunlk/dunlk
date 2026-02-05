@@ -18,7 +18,6 @@ I’m especially interested in low-level and high-performance systems, and my go
 
 ---
 ### Contact
-I’m open to collaboration, learning opportunities, and junior full-stack roles.
 
 - Email: milton.yv.dev@gmail.com  
 - LinkedIn: https://linkedin.com/in/miltonyvdev 
