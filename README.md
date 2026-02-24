@@ -9,7 +9,7 @@ I’m especially interested in low-level and high-performance systems, and my go
 
 ---
 ### Tech Stack
-- Languages: JavaScript, TypeScript, Java, Python
+- Languages: JavaScript, TypeScript, Python, Java
 - Frontend: React, Astro, HTML, CSS
 - Backend: FastAPI, Flask, NestJS / Node.js
 - Databases: PostgreSQL, MySQL
