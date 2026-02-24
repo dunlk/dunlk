@@ -25,6 +25,5 @@ I’m especially interested in low-level and high-performance systems, and my go
 - Portfolio: https://milton-portafolio.vercel.app/
 
 ---
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunlk&layout=compact&theme=radical)
+## GitHub Stats
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dunlk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
