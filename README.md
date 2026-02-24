@@ -26,6 +26,4 @@ I’m especially interested in low-level and high-performance systems, and my go
 
 ---
 ## GitHub Stats
-
-![Dunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunlk&show_icons=true&theme=tokyonight)
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dunlk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
