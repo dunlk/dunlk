@@ -25,7 +25,7 @@ I’m especially interested in low-level and high-performance systems, and my go
 - Portfolio: https://milton-portafolio.vercel.app/
 
 ---
-## 🚀 Open to Opportunities
+### 🚀 Open to Opportunities
 
 Full-Stack & Backend Developer  
 Focused on scalable systems, API design and performance-driven applications.
