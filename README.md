@@ -1,5 +1,5 @@
 <img src="https://github.com/MiltonYV-DEV/Portafolio-v2/blob/main/public/portada.png?raw=true"/>
-<h2 aling="center">React | Nest | TypeSCript | PostgreSQL </h2>
+<h2 align="center" color="blue">React | Nest | TypeSCript | PostgreSQL </h2>
 <h1 align="left">Hi, I'm Dunk 👋</h1>
 And I’m not the cat in the profile picture, in case you were wondering 😄  
 I’m a self-taught full-stack software developer working with databases, backends, and frontends.
