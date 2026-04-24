@@ -1,4 +1,3 @@
-<img src="https://github.com/MiltonYV-DEV/Portafolio-v2/blob/main/public/portada.png?raw=true"/>
 <img src="https://github.com/dunlk/chat-websocket/blob/main/frontend/public/portada.png?raw=true"/>
 <p align="center">React | Nest | TypeScript | PostgreSQL </p>
 <h1 align="left">Hi, I'm Dunk 👋</h1>
