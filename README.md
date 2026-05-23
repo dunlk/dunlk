@@ -22,7 +22,7 @@ I’m especially interested in low-level and high-performance systems, and my go
 - Email: milton.yv.dev@gmail.com  
 - LinkedIn: https://linkedin.com/in/miltonyvdev 
 - GitHub: https://github.com/dunlk
-- Portfolio: https://milton-portafolio.vercel.app/
+- Portfolio: https://idunk.xyz
 
 ---
 ### 🚀 Open to Opportunities
