@@ -1,5 +1,5 @@
 <img src="https://github.com/dunlk/chat-websocket/blob/main/frontend/public/portada.png?raw=true"/>
-<p align="center">React | Nest | TypeScript | PostgreSQL | MongoDB </p>
+<p align="center">React | FastAPI | Nest | TypeScript | PostgreSQL | MongoDB </p>
 <h1 align="left">Hi, I'm Dunk 👋</h1>
 And I’m not the cat in the profile picture, in case you were wondering 😄  
 I’m a self-taught full-stack software developer working with databases, backends, and frontends.
