@@ -33,7 +33,7 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ## Featured Projects
 
-- 🖥️ **Tauri Cyber Café Manager** *(In Development)*
+- 🖥️ **DangerClock** *(In Development)* - Desktop aplication with Tauri(Rust and React)
 - 💬 **ChatWorld** — Real-time chat platform
 - ⚔️ **YouBattle** — Console RPG built with Java
 - 🛠️ **ResuelveYa** — Home services platform
