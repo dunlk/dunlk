@@ -42,20 +42,28 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+## Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Environment
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=white)
+![Oh My Posh](https://img.shields.io/badge/Oh_My_Posh-4B32C3?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge)
+
 ## Featured Projects
 
 - 🖥️ **DangerClock** *(In Development)* - Desktop aplication with Tauri(Rust and React)
 - 💬 **ChatWorld** — Real-time chat platform
 - ⚔️ **YouBattle** — Console RPG built with Java
 - 🛠️ **ResuelveYa** — Home services platform
-
-## Developer Environment
-
-- Neovim (LazyVim)
-- Kitty
-- tmux
-- Fish Shell
-- Oh My Posh
 
 ## Connect
 
