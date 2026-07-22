@@ -28,7 +28,3 @@ I’m especially interested in low-level and high-performance systems, and my go
 ### 🚀 Open to Opportunities
 Full-Stack & Backend Developer  
 Focused on scalable systems, API design and performance-driven applications.
-
----
-## GitHub Stats
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dunlk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
