@@ -9,25 +9,49 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top">
+
 ### Frontend
-![React](...)
-![TypeScript](...)
-![Tailwind](...)
-![Tauri](...)
+
+- React
+- TypeScript
+- Tailwind CSS
+- Tauri
+
+</td>
+
+<td valign="top">
 
 ### Backend
-![FastAPI](...)
-![NestJS](...)
-![Laravel](...)
+
+- FastAPI
+- NestJS
+- Laravel
+
+</td>
+
+<td valign="top">
 
 ### Database
-![PostgreSQL](...)
-![MongoDB](...)
-![SQLite](...)
-![MySQL](...)
+
+- PostgreSQL
+- MongoDB
+- SQLite
+- MySQL
+
+</td>
+
+<td valign="top">
 
 ### Learning
-![Rust](...)
+
+- Rust
+
+</td>
+</tr>
+</table>
 
 **Currently Learning**
 - Rust
