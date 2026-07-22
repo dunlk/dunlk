@@ -38,8 +38,9 @@ I enjoy building backend services, desktop applications, and modern web applicat
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=white)
 
-**Currently Learning**
-- Rust
+### Learning
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Featured Projects
 
