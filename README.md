@@ -20,6 +20,10 @@ I enjoy building backend services, desktop applications, and modern web applicat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,tauri,fastapi,nestjs,laravel,postgres,mongodb,mysql,sqlite,rust" />
+</p>
+
 **Currently Learning**
 - Rust
 
