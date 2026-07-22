@@ -17,6 +17,8 @@ I enjoy building backend services, desktop applications, and modern web applicat
 **Backend**
 - FastAPI
 - NestJS
+- Express
+- Node.js
 - Laravel
 
 **Databases**
