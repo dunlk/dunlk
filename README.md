@@ -1,5 +1,6 @@
 <img src="https://github.com/dunlk/chat-websocket/blob/main/frontend/public/portada.png?raw=true"/>
 <p align="center">React | FastAPI | Nest | TypeScript | PostgreSQL | MongoDB </p>
+
 # Hi, I'm Milton 👋
 
 Software Developer from Peru 🇵🇪
