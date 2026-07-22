@@ -9,10 +9,6 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top">
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -32,6 +28,15 @@ I enjoy building backend services, desktop applications, and modern web applicat
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-40C4FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=fishshell&logoColor=white)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,tauri,fastapi,nestjs,laravel,postgres,mongodb,mysql,sqlite,rust" />
