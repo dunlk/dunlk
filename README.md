@@ -1,30 +1,49 @@
 <img src="https://github.com/dunlk/chat-websocket/blob/main/frontend/public/portada.png?raw=true"/>
 <p align="center">React | FastAPI | Nest | TypeScript | PostgreSQL | MongoDB </p>
-<h1 align="left">Hi, I'm Dunk 👋</h1>
-And I’m not the cat in the profile picture, in case you were wondering 😄  
-I’m a self-taught full-stack software developer working with databases, backends, and frontends.
+# Hi, I'm Milton 👋
 
-I enjoy building well-structured, functional applications and understanding how systems work end to end. I work mainly with modern web technologies and relational databases, and I’m constantly improving my skills through hands-on projects and continuous learning.
+Software Developer from Peru 🇵🇪
 
-I’m especially interested in low-level and high-performance systems, and my goal is to specialize in **Rust** while continuing to grow as a versatile full-stack developer.
+I enjoy building backend services, desktop applications, and modern web applications. Currently learning Rust while exploring high-performance software and cross-platform desktop development with Tauri.
 
----
-### Tech Stack
-- Languages: JavaScript, TypeScript, Python, Java
-- Frontend: React, Astro, HTML, CSS
-- Backend: FastAPI, Flask, NestJS / Node.js
-- Databases: PostgreSQL, MySQL
-- Tools: Git, GitHub, Docker, Linux, Neovim(nvim), VSCode, Postman, Swagger
-- Learning: Rust
+## Tech Stack
 
----
-### Contact
-- Email: milton.yv.dev@gmail.com  
-- LinkedIn: https://linkedin.com/in/miltonyvdev 
-- GitHub: https://github.com/dunlk
-- Portfolio: https://idunk.xyz
+**Frontend**
+- React
+- TypeScript
+- Tailwind CSS
+- Tauri
 
----
-### 🚀 Open to Opportunities
-Full-Stack & Backend Developer  
-Focused on scalable systems, API design and performance-driven applications.
+**Backend**
+- FastAPI
+- NestJS
+- Laravel
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- SQLite
+- MySQL
+
+**Currently Learning**
+- Rust
+
+## Featured Projects
+
+- 🖥️ **Tauri Cyber Café Manager** *(In Development)*
+- 💬 **ChatWorld** — Real-time chat platform
+- ⚔️ **YouBattle** — Console RPG built with Java
+- 🛠️ **ResuelveYa** — Home services platform
+
+## Developer Environment
+
+- Neovim (LazyVim)
+- Kitty
+- tmux
+- Fish Shell
+- Oh My Posh
+
+## Connect
+
+- 🌐 Portfolio: https://idunk.xyz/
+- 💼 LinkedIn: https://linkedin.com/in/miltonyvdev
