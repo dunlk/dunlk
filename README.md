@@ -3,7 +3,7 @@
 
 # Hi, I'm Milton 👋
 
-Software Developer with base in Peru 🇵🇪
+**Software Developer with based in Peru** 🇵🇪
 
 I enjoy building backend services, desktop applications, and modern web applications. Currently learning Rust while exploring high-performance software and cross-platform desktop development with Tauri.
 
