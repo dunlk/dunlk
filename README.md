@@ -9,24 +9,12 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ## Tech Stack
 
-**Frontend**
-- React
-- TypeScript
-- Tailwind CSS
-- Tauri
-
-**Backend**
-- FastAPI
-- NestJS
-- Express
-- Node.js
-- Laravel
-
-**Databases**
-- PostgreSQL
-- MongoDB
-- SQLite
-- MySQL
+| Frontend | Backend | Database | Learning |
+|-----------|----------|----------|----------|
+| React | FastAPI | PostgreSQL | Rust |
+| TypeScript | NestJS | MongoDB | |
+| Tailwind CSS | Laravel | MySQL | |
+| Tauri | | SQLite | |
 
 **Currently Learning**
 - Rust
