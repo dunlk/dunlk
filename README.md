@@ -15,43 +15,10 @@ I enjoy building backend services, desktop applications, and modern web applicat
 
 ### Frontend
 
-- React
-- TypeScript
-- Tailwind CSS
-- Tauri
-
-</td>
-
-<td valign="top">
-
-### Backend
-
-- FastAPI
-- NestJS
-- Laravel
-
-</td>
-
-<td valign="top">
-
-### Database
-
-- PostgreSQL
-- MongoDB
-- SQLite
-- MySQL
-
-</td>
-
-<td valign="top">
-
-### Learning
-
-- Rust
-
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri)
 
 **Currently Learning**
 - Rust
